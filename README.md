@@ -1,2 +1,6 @@
 # Calculadora-de-subneteo-en-VLSM.
-CREE ESTA CALCULADORA DE SUBNETEO EN VLSM EN LENGUAJE JAVA
+
+## compilación y ejecución 
+```bash
+javac src/main/java/com/jose488creator/CalculadoraDeSubneteo-VLSM.java
+java -cp src/main/java com.jose488creator.CalculadoraDeSubneteo-VLSM
