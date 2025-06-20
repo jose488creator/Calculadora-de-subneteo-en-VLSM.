@@ -1,8 +1,17 @@
-# Archivos compilados de Java
+# Compiled Java files
 *.class
 /bin/
 /target/
 
-# IDE
-/.idea/
+# Build tools
+*.jar
+*.war
+
+# IDE specific
+.idea/
 *.iml
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
